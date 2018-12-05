@@ -1,6 +1,6 @@
 # Programmieraufgabe_Huffman
 Mada Programmieraufgabe
 Team:
-Luca Brägger
-Dominik Steinmann
+Luca Brägger,
+Dominik Steinmann,
 Louis Baumgartner

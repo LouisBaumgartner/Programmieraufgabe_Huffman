@@ -9,8 +9,7 @@ public class Model {
 
 
 
-
-    //liest text.txt Dokument ein
+    // 1. Eine Textdatei (ASCII kodiert) soll eingelesen werden.
     public List<Integer> changeToASCII(String filename){
         //wo ist text.txt abgespeichert
         String file = filename;
